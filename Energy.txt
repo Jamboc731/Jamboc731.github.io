@@ -1,0 +1,16 @@
+Haywire(1d5)
+Graviton
+Vengeful(9)
+Accurate
+Inaccurate
+RoF(Empty)
+Flame
+Proven(5)
+Primitive (8)
+Tearing
+Critical (DoS)
+Lance
+Spray
+Roll on Explosive
+Roll on Impact
+Roll on Rending

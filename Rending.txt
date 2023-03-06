@@ -1,0 +1,16 @@
+Felling (1d5)
+Accurate
+Inaccurate
+RoF(Empty)
+Proven(5)
+Primitive (8)
+Shocking
+Tearing
+Critical (DoS)
+Razor Sharp
+Hallucinogenic (1d5)
+Toxic (1d5)
+Blast(1d5)
+Roll on Explosive
+Roll on Impact
+Roll on Energy

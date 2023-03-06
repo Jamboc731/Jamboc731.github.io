@@ -1,0 +1,16 @@
+Concussive(1d5)
+Indirect(1)
+Accurate
+Inaccurate
+RoF(Empty)
+Proven(5)
+Primitive (8)
+Smoke (1d5)
+Shocking
+Tearing
+Critical (DoS)
+Lance
+Spray
+Roll on Explosive
+Roll on Rending
+Roll on Energy

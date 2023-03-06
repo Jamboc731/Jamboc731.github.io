@@ -1,0 +1,10 @@
+Damage +1d5
+Damage ++
+Pen ++
+Pen +1d5
+Damage --
+Damage -1d5
+Pen 0
+Damage = 1d100 (Weapon Explodes) Blast (1d10)
+Weapon fails to fire (Still uses ammo)
+Delayed Shot(Weapon doesn't fire next turn damagex2)

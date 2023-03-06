@@ -1,0 +1,16 @@
+Blast++
+Accurate
+Inaccurate
+RoF(Empty)
+Storm
+Proven(5)
+Primitive (8)
+Snare (1d5)
+Melta
+Tearing
+Critical (DoS)
+Flame
+Blast(+1d5)
+Roll on Impact
+Roll on Rending
+Roll on Energy
